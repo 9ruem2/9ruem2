@@ -32,6 +32,7 @@
 <a href="https://velog.io/@wish17?tag=aws"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
 <a href="https://velog.io/@wish17/%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%ACaws-Session-Manager-%EC%97%B0%EA%B2%B0"><img src="https://img.shields.io/badge/EC2-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
 <a href="https://velog.io/@wish17/u1p70k28"><img src="https://img.shields.io/badge/RDS-232F3E?style=flat&logo=amazonaws&logoColor=white" /></a>
+<a href="https://velog.io/@wish17/u1p70k28"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=amazonaws&logoColor=white" /></a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9ruem2&theme=moltack)
 
